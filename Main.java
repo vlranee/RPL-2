@@ -9,7 +9,7 @@ package com.mycompany.login;
  * @author user
  */
 
-public class classlog {
+public class Main {
     public static void main(String[] args) {
         javax.swing.SwingUtilities.invokeLater(() -> {
             javax.swing.JFrame frame = new javax.swing.JFrame("Login");

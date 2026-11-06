@@ -4,10 +4,6 @@
 
 package com.mycompany.login;
 
-/**
- *
- * @author Nadia
- */
 public class Login {
 
     public static void main(String[] args) {

@@ -4,7 +4,6 @@
  */
 package com.mycompany.login;
 public class LoginForm extends javax.swing.JPanel {
-
     /**
      * Creates new form LoginForm
      */

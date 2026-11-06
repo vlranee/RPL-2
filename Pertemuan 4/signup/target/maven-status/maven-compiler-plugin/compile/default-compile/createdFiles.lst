@@ -1,0 +1,5 @@
+com\mycompany\signup\SignUpForm.class
+com\mycompany\signup\Main$JFrameHolder.class
+com\mycompany\signup\User.class
+com\mycompany\signup\HibernateUtil.class
+com\mycompany\signup\Main.class

@@ -1,0 +1,7 @@
+com\mycompany\signup\dao\UserDaoImpl.class
+com\mycompany\signup\User.class
+com\mycompany\signup\LoginForm.class
+com\mycompany\signup\Main.class
+com\mycompany\signup\config\AppConfig.class
+com\mycompany\signup\dao\UserDao.class
+com\mycompany\signup\SignUpForm.class
